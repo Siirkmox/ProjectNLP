@@ -1,0 +1,24 @@
+# Dataset (demasiado grande para GitHub, >100 MB)
+CSV/
+
+# Figuras generadas
+Notebooks/*.png
+
+# Archivos de trabajo internos
+Notebooks/run_analysis.py
+Notebooks/results.json
+Notebooks/analisis_empresa - template.ipynb
+
+# Scripts de construcción del PPTX
+Powerpoint/build_pptx.py
+Powerpoint/Analisis de reseñas (plantilla).pptx
+
+# Carpetas no necesarias
+Clase/
+XLSX/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
